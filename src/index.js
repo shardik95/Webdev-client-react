@@ -9,6 +9,6 @@ import Stateless from "./components/Stateless";
 import App from "./examples/App";
 
 ReactDOM.render(
-    <App/>,
+    <CourseManager/>,
     document.getElementById('root')
 );
