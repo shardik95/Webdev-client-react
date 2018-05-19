@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74d4e5c-8fd2-46ea-82c7-716973860bfe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Services/CourseService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/ModuleService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CourseRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/CourseList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/CourseEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CourseEditor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/CourseManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CourseManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/ModuleList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/ModuleList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="e74d4e5c-8fd2-46ea-82c7-716973860bfe" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -57,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CourseManager.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CourseManager.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/CourseManager.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -90,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModuleList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ModuleList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/containers/ModuleList.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
@@ -216,6 +206,12 @@
               <item name="webdev-react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="webdev-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdev-react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -251,15 +247,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526525088769</updated>
-      <workItem from="1526525090231" duration="35190000" />
+      <workItem from="1526525090231" duration="36002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35190000" />
+    <option name="totallyTimeSpent" value="36002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -404,16 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/CourseManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="76" lean-forward="true" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/CourseEditor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -437,6 +424,16 @@
           <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/CourseManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="76" lean-forward="true" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
